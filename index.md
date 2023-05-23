@@ -1,12 +1,12 @@
 # Time series plots - Obs Vs Mod Data with stats
 
 **Key steps**  
-1. Import observed plot data from a .mat file.  
+1. Import observed data from a .mat file.  
 2. Plot timeseries observed data for three selected sites.  
 3. Extract modelled data from tuflow output for the same three sites.  
 4. Plot timeseries modelled data for the same three sites.  
 5. Plot both obs and mod data in the same plot.  
-6. Calculate stats separatrely - Three tests will be used; *Bias, RMSE, MAE, and IOA*.  
+6. Calculate stats separatrely - Four tests will be used; *Bias, RMSE, MAE, and IOA*.  
 7. Add the stats to the timeseries plot.
 
 ### Import Libraries
