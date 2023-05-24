@@ -39,7 +39,7 @@ data = loadmat(TEMP_data, simplify_cells=True)
 dat = data['PDSP2_data']
 ```
 
-Let's create data frames for each variable based on selected sites.
+Create data frames for each variable based on selected sites.
 Below code chunk creates three dataframes for TEMP,TEMP and SALT. 
 
 
